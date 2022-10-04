@@ -6,7 +6,7 @@ Customer personality analysis helps a business to modify its product based on it
 
 In this project, unsupervised clustering methods will be adopted to the customer's records from a groceries firm's database. The target of this project is to perform clustering to summarize customer segments.
 
-# [Dataset Information](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+## [Dataset Information](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 ## Attribute Information
 ### Customer Information  
 1. ID: Customer's unique identifier
@@ -43,5 +43,5 @@ In this project, unsupervised clustering methods will be adopted to the customer
 28.  Z_CostContact
 29.  Z_Revenue
 
-# Approach
+## Approach
 In this project, different clustering methods would be used to get customer clusters for grocery store campaign. Campaign targeting strategies will be expained after profiling each cluster of customers.
