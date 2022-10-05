@@ -4,9 +4,8 @@ Customer Personality Analysis is a detailed analysis of a company’s ideal cust
 
 Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
 
-In this project, unsupervised clustering methods will be adopted to the customer's records from a groceries firm's database. The target of this project is to perform clustering to summarize customer segments.
+In this project, unsupervised clustering methods will be adopted to the customer's records from a groceries firm's database. The target of this project is to perform clustering to summarize customer segments. The dataset could be found [here](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
-## [Dataset Information](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 ## Attribute Information
 ### Customer Information  
 1. ID: Customer's unique identifier
